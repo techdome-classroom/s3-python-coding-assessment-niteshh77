@@ -1,7 +1,6 @@
 class Solution(object):
     def romanToInt(self, s):
-        class Solution:
-    def romanToInt(self, s: str) -> int:
+        
         m = {
             'I': 1,
             'V': 5,
