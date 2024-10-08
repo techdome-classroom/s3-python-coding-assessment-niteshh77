@@ -1,6 +1,6 @@
 class Solution(object):
     def isValid(self, s):
-        st=""
+        st=[]
         for i in s: 
 
 
